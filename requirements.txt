@@ -1,0 +1,8 @@
+Flask
+Flask-RESTful
+pytesseract
+pillow
+uwsgi
+datefinder
+re
+itertools
